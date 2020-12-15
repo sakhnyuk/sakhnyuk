@@ -20,6 +20,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<h3>Codewars</h3>
+<img alt="Codewars badge" src="https://www.codewars.com/users/sakhnyuk/badges/small" />
+
 <h3>My links</h3>
 <p><a href="https://github.com/sakhnyuk" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://twitter.com/MikhailSakhnyuk" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
