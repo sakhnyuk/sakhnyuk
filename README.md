@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 
-<p>Welcome to my github page! </br> I'm Mike, Frontend Software Developer from <b>Novosibirsk, Russia</b></p>
+<p>Welcome to my github page! </br> I'm Mike, Frontend Software Developer from <b>Yerevan, Armenia</b></p>
 
-<h3>Tools that I am using</h3>
+<h3>Tools I'm using</h3>
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></br>
