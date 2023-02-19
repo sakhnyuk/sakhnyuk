@@ -26,5 +26,6 @@
 
 <h3>Projects</h3>
 <a href="https://iq.js.org/" target="_blank">JavaScript Questions Blog</a>
+
 <a href="https://clickmeet.app/" target="_blank">ClickMeet App</a>
 
